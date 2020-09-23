@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_demo_item.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_demo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_dialog_load_model.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\dialog_load_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_demo.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_model.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\menu_model.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\menu\\model.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_text.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_item.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\allsa\\AndroidStudioProjects\\smartcity_manhole\\model\\src\\main\\res\\menu\\menu.xml"
+    }
+]

@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [:engine] C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\engine\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f1bc45fa819a5ff15e81f37590dd5bea\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\5dfc3e4de70e0708bf5b8273f949e79c\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:8:5-10:82
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:8:5-10:82
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:8:5-10:82
+MERGED from [:engine] C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\engine\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:engine] C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\engine\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f1bc45fa819a5ff15e81f37590dd5bea\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f1bc45fa819a5ff15e81f37590dd5bea\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\5dfc3e4de70e0708bf5b8273f949e79c\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\5dfc3e4de70e0708bf5b8273f949e79c\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:8:5-10:82
+INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:8:5-10:82
+	tools:overrideLibrary
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:10:9-79
+	android:targetSdkVersion
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:8:5-10:82
+		INJECTED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:12:5-14:35
+	android:glEsVersion
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:13:9-41
+	android:required
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:14:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:17:22-64
+application
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:19:5-53:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f1bc45fa819a5ff15e81f37590dd5bea\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f1bc45fa819a5ff15e81f37590dd5bea\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\allsa\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:23:9-40
+meta-data#com.naver.maps.map.bh6dihbaf3
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:24:9-26:42
+	android:value
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:26:13-39
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:25:13-57
+activity#org.andresoviedo.app.model3D.MainActivity
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:28:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:33:27-74
+activity#org.andresoviedo.app.model3D.view.MenuActivity
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:36:9-40:20
+	android:parentActivityName
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:39:13-83
+	android:label
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:37:13-74
+activity#org.andresoviedo.util.view.TextActivity
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:41:9-45:20
+	android:parentActivityName
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:44:13-83
+	android:label
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:42:13-67
+activity#org.andresoviedo.app.model3D.view.ModelActivity
+ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:46:9-52:20
+	android:parentActivityName
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:49:13-83
+	android:label
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:48:13-57
+	android:name
+		ADDED from C:\Users\allsa\AndroidStudioProjects\smartcity_manhole\model\src\main\AndroidManifest.xml:47:13-75

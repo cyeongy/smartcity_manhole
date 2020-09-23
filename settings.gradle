@@ -1,0 +1,4 @@
+include ':model'
+include ':engine'
+include ':app'
+rootProject.name = "smartcity_manhole"
